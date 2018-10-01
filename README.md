@@ -17,10 +17,10 @@
 
 ## Table of Contents
 
-1. TODO.md - contains instructions for what to do for this assignment
-2. README.md - overview of files in this repository (this file)
+1. README.md - overview of files in this repository (this file)
+2. TODO.md - contains instructions for what to do for this assignment
 3. rules.md - documents the rules for your team
-4. proposal.md - a project proposal for your team
+4. proposal.md - a project proposal written by your team
 
 ## Files to Submit
 
