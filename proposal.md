@@ -24,6 +24,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
   
  Caution: You are not being asked to implement this program, at least not yet. 
  We just want your group to make a proposal or pitch for your program.
+ 
+ Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
 
@@ -36,7 +38,7 @@ Describe at a high level a program that could solve that problem.
 
 
 
-2. Output: Describe the output will your program produce.
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 
 
