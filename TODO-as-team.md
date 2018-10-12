@@ -8,42 +8,42 @@ __CAUTION: DO NOT FORK THIS REPOSITORY__
 
 Only one team member completes this step.
 
-  1. Login to GitHub with your wisc.edu GitHub account.
-  2. Click the green [New Repository] link.
-  3. Type the name suggested by GitHub for your newly created repository as your repository's name, ie.  your-repo-name
-  4. Enter "cs400 X-Team NN" as the description for this new repository.  
-  5. Replace NN with your X-Team number.
-  6. Select Public.
-  7. Click [Create repository].
-  8. Scroll to bottom of Quick Setup page and click [Import Code].
+  1. __Login to GitHub__ with your wisc.edu GitHub account.
+  2. Click the green __[New Repository]__ link.
+  3. __Enter the name suggested by GitHub for your newly created repository__, ie.  random-repo-name
+  4. Enter __cs400 X-Team *NNN*__ as the __description__ for this new repository.
+  5. Replace __NNN__ with your X-Team number.
+  6. Select __Public__.
+  7. Click [__Create repository__].
+  8. Scroll to bottom of Quick Setup page and __click [Import Code]__.
   9. Enter this URL: https://github.com/cs400-deppeler/x-team-exercise-2
-  9. Click [Begin Import] and wait for import to complete.
+  9. Click [__Begin Import__] and wait for import to complete.
   10. Click the link to your newly created repository.
-  11. Add Collaborators to your newly created repository.  
-     a. Click Settings
-     b. Click Collaborators
-     c. For each member of your X-team
-        i. Enter your team member's GitHub account username
-        ii. Click Add Collaborator
+  11. __Add Collaborators__ to your newly created repository.  
+     a. Click __Settings__
+     b. Click __Collaborators__
+     c. __Add each member of your X-team__
+        i. Enter your team member's __GitHub account username__
+        ii. Click __Add Collaborator__
         
   12. Share the name of this repository with all of your x-team members
 
-## 2. Update rules.md collectively
+## 2. Update rules.md as a team
 
 All team members must help draft content and edit files.  
 The rules.md file is where you will document the team rules you agree to.  
 Please be sure to do the following for this document.
 
-1. Replace NN in the top heading with your X-team's number.
-2. Edit rules.md document the agreed upon rules for your X-team.
+1. Replace __NNN__ in the top heading with your X-team's number.
+2. __Edit rules.md__ document the agreed upon rules for your X-team.
 
 ## 3. Draft a program proposal.md
 
 All team members must help draft content and edit files.  
 The proposal.md file is where you will document the program your team designs.
-Please be sure to read and edit the proposal document via GitHub.
-Each member should edit and commit to the proposal.
-Answer the questions in the README.md file for your team.
+Please be sure to __read and edit the proposal document via GitHub__.
+Each member should __edit and commit__ to the proposal.
+Answer the questions in the __README.md__ file for your team.
 It is reasonable to have each team member responsible for editing and answering at least one of the question answers.
 
 ## 4. Update your README.md file
@@ -86,5 +86,3 @@ Submit these files to Canvas for your team for this assignment.   The final subm
 1. README.md
 2. rules.md
 3. proposal.md
-  
-  
