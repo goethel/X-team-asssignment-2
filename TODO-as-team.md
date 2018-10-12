@@ -2,7 +2,7 @@
 
 This document describes what X-team members must together to complete X-Team Exercise #2.  
 
-## 1. Create a shared GitHub repository __DO NOT FORK THIS REPOSITORY__
+## 1. Create a shared GitHub repository and import __DO NOT FORK__
 
 Only one team member completes this step.
 
