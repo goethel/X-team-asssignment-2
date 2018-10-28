@@ -79,8 +79,12 @@ Display.java => displays GUI for users to play on, including board, home menu, a
 
 Move.java with selected piece, and board, displays available moves.
 
-Data Structure: a 2d array[8][8] of Piece. Piece will hold information of what piece is in that position. 
+Player.java => Is the player that holds what color are they. Information includes 
 
+Data Structure: a 2d array[8][8] of Piece. Piece will hold information of what piece is in that position. 
+We choose the 2d array because it is the most analogous to a physcial chess board. 
+
+Unit Testing: We will use JUnit testing for individual method/piece testing. As an example, we can manually create positions on the 2d array that should result in checkmate. If the checkmate method is working it should return true. We can also do end to end testing, with us using the program and playing chess. We can make sure pieces are doing what they need to be doing and rules being followed. This will also allow us to test different options menus that we can have. 
 
 ## Edit and Submit this file and any figures referenced by this document.
 
