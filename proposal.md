@@ -1,4 +1,4 @@
-# X-Team 013 Project Proposal
+# X-Team 013 Badger Chess
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -36,25 +36,34 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Chess player using Java FX
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+The output produced should be a chess board, with the current positions of the pieces on the board. Off to the side will be a collection of the pieces that are off the board. Also, when a player wins, a popup should say win or checkmate.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+Our input is two players wanting to play a game. The problem is they dont have physical chessboard, or access to the internet, and would like to play a friendly game of chess
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
+Home screen: select players/rules/ time limits
+In game: Simple GUI, with board, positions and other relevant game information.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+Piece data, Board data, Checkmate,Settings, Timers, display, home menu, buttons,
 
-
-
-Name each interface or class and briefly describe its function or purpose.
+Name each interface or class and briefly describe its function or purpose.BoardDisplay.java => displays the board with positions
+Board.java => contains the array with currently occupied position
+Knight.java => contains Knight node with color,and legal moves
+King.java => contains King node with color, and legal moves
+Queen.java => contains Queen node with color, and legal moves
+Pawn.java => contains Pawn node with color,and legal moves
+Rook.java => contains Rook node with color, and legal moves
+Checkmate.java => yes/no if checkmate
+Timer.java => timer if players wish to play timed chess
+Display.java => displays GUI for users to play on, including board, home menu, and winner pop up
+Move.java with selected piece, and board, displays available moves.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
