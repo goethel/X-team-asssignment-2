@@ -79,6 +79,8 @@ Display.java => displays GUI for users to play on, including board, home menu, a
 
 Move.java with selected piece, and board, displays available moves.
 
+Data Structure: a 2d array[8][8] of Piece. Piece will hold information of what piece is in that position. 
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
