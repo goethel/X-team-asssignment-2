@@ -10,7 +10,7 @@
        * GitHub username 1:  goethel   name 1: Andrew Goethel
        * GitHub username 2: Manyawaldia     name 2: Manya Waldia
        * GitHub username 3:  ThomasGrutsch     name 3: Tom Grutsch
-       * GitHub username 4:       name 4:
+       * GitHub username 4: czmaster      name 4: Chris Zheng
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
