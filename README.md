@@ -13,8 +13,9 @@
        * GitHub username 4: czmaster      name 4: Chris Zheng
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+   2:29pm Sunday oct 28
    * How long did it take your team to complete this exercise? 
-
+  20 minutes
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
