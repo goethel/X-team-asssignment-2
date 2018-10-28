@@ -69,6 +69,8 @@ Pawn.java (inherits Piece.java)=> contains Pawn node with color,and legal moves
 
 Rook.java (inherits Piece.java)=> contains Rook node with color, and legal moves
 
+Bishop.java (inherits Piece.java)=> contains Bishop node with color, and legal moves
+
 Checkmate.java => yes/no if checkmate
 
 Timer.java => timer if players wish to play timed chess
