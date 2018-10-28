@@ -40,7 +40,7 @@ Chess player using Java FX
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-The output produced should be a chess board, with the current positions of the pieces on the board. Off to the side will be a collection of the pieces that are off the board. Also, when a player wins, a popup should say win or checkmate.
+The output produced should be a chess board, with the current positions of the pieces on the board. Off to the side will be a collection of the pieces that are off the board. Also, when a player wins, a popup should say win or checkmate. (ChessBoardXTeam)
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 Our input is two players wanting to play a game. The problem is they dont have physical chessboard, or access to the internet, and would like to play a friendly game of chess
