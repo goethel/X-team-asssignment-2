@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:  goethel   name 1: Andrew Goethel
        * GitHub username 2: Manyawaldia     name 2: Manya Waldia
-       * GitHub username 3:       name 3:
+       * GitHub username 3:  ThomasGrutsch     name 3: Tom Grutsch
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
