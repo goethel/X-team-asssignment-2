@@ -54,16 +54,27 @@ In game: Simple GUI, with board, positions and other relevant game information.
 Piece data, Board data, Checkmate,Settings, Timers, display, home menu, buttons,
 
 Name each interface or class and briefly describe its function or purpose.BoardDisplay.java => displays the board with positions
+
 Board.java => contains the array with currently occupied position
+
 Piece.java => Its the superclass for all pieces. It will have everything all pieces have in common such as icon.png, a move method, remove method, etc. 
+
 Knight.java (inherits Piece.java)=> contains Knight node with color,and legal moves
+
 King.java (inherits Piece.java)=> contains King node with color, and legal moves
+
 Queen.java (inherits Piece.java)=> contains Queen node with color, and legal moves
+
 Pawn.java (inherits Piece.java)=> contains Pawn node with color,and legal moves
+
 Rook.java (inherits Piece.java)=> contains Rook node with color, and legal moves
+
 Checkmate.java => yes/no if checkmate
+
 Timer.java => timer if players wish to play timed chess
+
 Display.java => displays GUI for users to play on, including board, home menu, and winner pop up
+
 Move.java with selected piece, and board, displays available moves.
 
 
