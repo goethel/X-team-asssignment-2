@@ -7,7 +7,7 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
+       * GitHub username 1:  goethel   name 1: Andrew Goethel
        * GitHub username 2: Manyawaldia     name 2: Manya Waldia
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
